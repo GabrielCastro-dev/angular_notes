@@ -1,0 +1,1 @@
+O NPM (Node Package Manager) é um gerenciador de pacotes (bibliotecas e frameworks) do Node. É também um dos maiores repositórios de código do mundo. 

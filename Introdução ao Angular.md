@@ -1,0 +1,20 @@
+O Angular é um framework JavaScript front-end, desenvolvido e mantido pela Google,  que facilita a criação de interfaces do usuário utilizando conceitos como a componentização. Uma coisa interessante de citar é que o Angular é open source e seu código está disponível no [GitHub](https://github.com/angular/angular).
+É importante frisar que o framework em questão se baseia em [[TypeScript]], e não em JavaScript padrão (ES6 atualmente). Isso faz com que seja necessário o aprendizado deste super set da linguagem também, que pode ser aprendido ao longo do aprendizado de Angular.
+Apesar de rodar no frontend, não é possível escrever código Angular com HTML, CSS e JavaScript padrão. O correto é utilizar o [[Node JS]] como ambiente de execução e utilizar ferramentas do [[NPM]] para criar e rodar o projeto Angular em desenvolvimento.
+
+### Instalação 
+
+O angular tem uma ferramenta de CLI via terminal através da qual é possível criar e gerenciar projetos. Para instalar essa ferramenta basta abrir um terminal já com Node e NPM instalados e rodar:
+
+`npm install -g @angular/cli`
+
+Note que o "-g" é uma flag que indica que a ferramenta será instalada globalmente.
+Versões específicas podem ser instaladas com um "@" seguido da numeração ao fim do comando.
+
+`npm install -g @angular/cli@19.0.2`
+
+
+
+
+
+

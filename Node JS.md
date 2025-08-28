@@ -1,0 +1,1 @@
+Um Runtime Environment (ambiente de execução) do JavaScript fora do navegador. Essa ferramenta permite usar o JavaScript como uma linguagem como qualquer outra, ou seja, através dela é possível ter acesso ao backend, fazer aplicações desktop e construir projetos com frameworks, até mesmo para frontend, como no nosso caso.

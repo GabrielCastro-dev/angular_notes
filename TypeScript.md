@@ -1,0 +1,1 @@
+O TypeScript é um superset de JavaScript, isso quer dizer que é como se fosse um JavaScript com "superpoderes". Na prática temos uma linguagem construída em cima do JavaScript só que agora com recursos a mais, como por exemplo a tipagem forte por tipos primitivos, diferente do JS original que tem tipagem fraca por dinamismo. 
