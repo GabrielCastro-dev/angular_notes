@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "fcb62b0031d619a2",
+        "id": "6cbca4267449fd92",
         "type": "tabs",
         "children": [
           {
-            "id": "9697ac7f566a2907",
+            "id": "95addf97249394fc",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "3. Boilerplate Code.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3. Boilerplate Code"
             }
           }
         ]
@@ -162,12 +166,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "9697ac7f566a2907",
+  "active": "95addf97249394fc",
   "lastOpenFiles": [
     "2. Criação de novo projeto.md",
     "1. Introdução ao Angular.md",
+    "3. Boilerplate Code.md",
     "TypeScript.md",
-    "NPM.md",
-    "Node JS.md"
+    "Node JS.md",
+    "NPM.md"
   ]
 }
