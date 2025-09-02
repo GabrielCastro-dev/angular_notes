@@ -1,3 +1,3 @@
 Antes de continuar é importante frisar que os Decorators não são um recuso exclusivo do Angular, na verdade é algo que vem do TypeScript. O Angular tem seus próprios Decorators personalizados, sem ter criado a função em si.
 
-Segundo a própria definição que consta na [Documentação do Typescript](https://www.typescriptlang.org/docs/handbook/decorators.html), um Decorator é "...um tipo especial de declaração que pode ser anexado a uma declaração de classe, método, propriedade ou parâmetro".  
+Segundo a própria definição que consta na [Documentação do TypeScript](https://www.typescriptlang.org/docs/handbook/decorators.html), um Decorator é "...um tipo especial de declaração que pode ser anexado a uma declaração de classe, método, propriedade ou parâmetro".  
