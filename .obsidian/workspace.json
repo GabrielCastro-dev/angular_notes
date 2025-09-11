@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Componentes.md",
+                "file": "5. Data binding.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4. Componentes"
+              "title": "5. Data binding"
             }
           }
         ]
@@ -166,10 +166,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "5d968b8e2b3eec75",
+  "active": "f7765abd795cd3b8",
   "lastOpenFiles": [
-    "Decorators.md",
     "4. Componentes.md",
+    "5. Data binding.md",
+    "Decorators.md",
     "TypeScript.md",
     "NPM.md",
     "Node JS.md",
